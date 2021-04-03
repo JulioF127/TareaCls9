@@ -1,0 +1,13 @@
+package umg.progra3.ejercicio2.Ejercicio2;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Ejercicio2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
